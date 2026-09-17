@@ -21,3 +21,6 @@ Resources/AppIcon.icns
 .idea/
 *.xcuserstate
 xcuserdata/
+
+# Local agent workspace state (not project source)
+.workbuddy-ai/
